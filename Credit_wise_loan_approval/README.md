@@ -111,3 +111,7 @@ The following supervised learning models were trained and evaluated:
 - Precision-based evaluation is effective for financial risk prediction
 
 ---
+## 👤 Author
+
+**JASS Virk**
+Aspiring Data Scientist | Machine Learning Enthusiast
